@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script src="https://cdn.jsdelivr.net/npm/axios@1.1.2/dist/axios.min.js"></script>
+    <script>
+        const getdata = async () => {
+            try {
+                const { data } = await axios.get('https://api01-platform.stream.co.jp/apiservice/getMediaByParam/?token=MTNDMkU2RTAwNTNBMzBFOTgyQjMwQzE0RDIwN0EyMEY=&')
+                const musicData = JSON.parse(data.replace("searchResultEq(", "").replace(");", ""))
+                console.log(musicData)
+                for (let i = 0; i < musicData.meta.length; i++) {
+                    console.log(musicData.meta[i].title)
+                    console.log(musicData.meta[i].movie_permalink)
+
+                }
+            } catch (error) {
+                console.log(error)
+            }
+        }
+        getdata()
+    </script>
+</body>
+
+</html>

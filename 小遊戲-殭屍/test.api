@@ -1,0 +1,459 @@
+// 20230507232215
+// https://api01-platform.stream.co.jp/apiservice/getMediaByParam/?token=MTNDMkU2RTAwNTNBMzBFOTgyQjMwQzE0RDIwN0EyMEY=&
+
+searchResultEq({
+  "response_status": "2000",
+  "moviesum": 33,
+  "meta": [
+    {
+      "title": "雪国",
+      "mid": 44,
+      "obfuscated_mid": "NDQ=",
+      "active_flg": 1,
+      "publication_date": null,
+      "expiration_date": null,
+      "duration": 287,
+      "movie_permalink": "https://api01-platform.stream.co.jp/apiservice/plt3/OTAxNw%3d%3d%23NDQ%3d%23438%23438%230%233EC20059C000%23O29mZjtvZmY7b2Zm%23",
+      "movie_url": {
+        "mb_sq": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/jmc_pd/00001/3b66f767916346618fe6bec27c1e2c86_crypt/3b66f767916346618fe6bec27c1e2c86_21_cryptmedia.m3u8"
+      },
+      "movie_definition": {
+        "mb_sq": "360:360"
+      },
+      "movie_filesize": null,
+      "thumbnail_url": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/8705a0b0ba4e46c38723c97a84fd9592_26.00071.jpg",
+      "small_thumbnail_url": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/8705a0b0ba4e46c38723c97a84fd9592_25.00071.jpg",
+      "thumbnail_url_ssl": "https://ssl-cache.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/8705a0b0ba4e46c38723c97a84fd9592_26.00071.jpg",
+      "small_thumbnail_url_ssl": "https://ssl-cache.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/8705a0b0ba4e46c38723c97a84fd9592_25.00071.jpg",
+      "long_description": null,
+      "api_keywords": null,
+      "optional_id": null,
+      "copyright": null,
+      "copyright_url": null,
+      "keywords": null,
+      "custom_metadata": {
+        "playlist_name": "第1章 | 夏の肖像"
+      },
+      "exlink": [
+        null,
+        null,
+        null
+      ],
+      "insert_date": "2023/03/23 15:51:58",
+      "update_date": "2023/04/13 19:10:10",
+      "day_count": 2190,
+      "week_count": 18047,
+      "month_count": 128911,
+      "all_count": 153968,
+      "day_average": 86.4,
+      "week_average": 85.7,
+      "month_average": 84.3,
+      "all_average": 83.1
+    },
+    {
+      "title": "左右盲",
+      "mid": 43,
+      "obfuscated_mid": "NDM=",
+      "active_flg": 1,
+      "publication_date": null,
+      "expiration_date": null,
+      "duration": 267,
+      "movie_permalink": "https://api01-platform.stream.co.jp/apiservice/plt3/OTAxNw%3d%3d%23NDM%3d%23438%23438%230%233EC20059C000%23O29mZjtvZmY7b2Zm%23",
+      "movie_url": {
+        "mb_sq": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/jmc_pd/00001/016d07998b624a26a78626e56cfae1d5_crypt/016d07998b624a26a78626e56cfae1d5_21_cryptmedia.m3u8"
+      },
+      "movie_definition": {
+        "mb_sq": "360:360"
+      },
+      "movie_filesize": null,
+      "thumbnail_url": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/fe57c1901dbd412ead9633611539ed53_26.00066.jpg",
+      "small_thumbnail_url": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/fe57c1901dbd412ead9633611539ed53_25.00066.jpg",
+      "thumbnail_url_ssl": "https://ssl-cache.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/fe57c1901dbd412ead9633611539ed53_26.00066.jpg",
+      "small_thumbnail_url_ssl": "https://ssl-cache.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/fe57c1901dbd412ead9633611539ed53_25.00066.jpg",
+      "long_description": null,
+      "api_keywords": null,
+      "optional_id": null,
+      "copyright": null,
+      "copyright_url": null,
+      "keywords": null,
+      "custom_metadata": {
+        "playlist_name": "第1章 | 夏の肖像"
+      },
+      "exlink": [
+        null,
+        null,
+        null
+      ],
+      "insert_date": "2023/03/20 17:01:31",
+      "update_date": "2023/04/13 19:09:59",
+      "day_count": 1389,
+      "week_count": 11527,
+      "month_count": 80275,
+      "all_count": 93095,
+      "day_average": 73.1,
+      "week_average": 71.8,
+      "month_average": 69.9,
+      "all_average": 68.9
+    },
+    {
+      "title": "第一夜",
+      "mid": 42,
+      "obfuscated_mid": "NDI=",
+      "active_flg": 1,
+      "publication_date": null,
+      "expiration_date": null,
+      "duration": 260,
+      "movie_permalink": "https://api01-platform.stream.co.jp/apiservice/plt3/OTAxNw%3d%3d%23NDI%3d%23438%23438%230%233EC20059C000%23O29mZjtvZmY7b2Zm%23",
+      "movie_url": {
+        "mb_sq": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/jmc_pd/00001/34042c1d8a704cb08cb9c50fb373a25f_crypt/34042c1d8a704cb08cb9c50fb373a25f_21_cryptmedia.m3u8"
+      },
+      "movie_definition": {
+        "mb_sq": "360:360"
+      },
+      "movie_filesize": null,
+      "thumbnail_url": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/42b938add5144b329eeae1b8773ed3e6_26.00065.jpg",
+      "small_thumbnail_url": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/42b938add5144b329eeae1b8773ed3e6_25.00065.jpg",
+      "thumbnail_url_ssl": "https://ssl-cache.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/42b938add5144b329eeae1b8773ed3e6_26.00065.jpg",
+      "small_thumbnail_url_ssl": "https://ssl-cache.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/42b938add5144b329eeae1b8773ed3e6_25.00065.jpg",
+      "long_description": null,
+      "api_keywords": null,
+      "optional_id": null,
+      "copyright": null,
+      "copyright_url": null,
+      "keywords": null,
+      "custom_metadata": {
+        "playlist_name": "第2章 | 踊る動物"
+      },
+      "exlink": [
+        null,
+        null,
+        null
+      ],
+      "insert_date": "2023/03/20 17:01:26",
+      "update_date": "2023/04/13 19:10:09",
+      "day_count": 1086,
+      "week_count": 8664,
+      "month_count": 67553,
+      "all_count": 84204,
+      "day_average": 83.2,
+      "week_average": 83.1,
+      "month_average": 81.7,
+      "all_average": 80.5
+    },
+    {
+      "title": "又三郎",
+      "mid": 41,
+      "obfuscated_mid": "NDE=",
+      "active_flg": 1,
+      "publication_date": null,
+      "expiration_date": null,
+      "duration": 229,
+      "movie_permalink": "https://api01-platform.stream.co.jp/apiservice/plt3/OTAxNw%3d%3d%23NDE%3d%23438%23438%230%233EC20059C000%23O29mZjtvZmY7b2Zm%23",
+      "movie_url": {
+        "mb_sq": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/jmc_pd/00001/10dbbc976e7d4ecbae27ea651b134f37_crypt/10dbbc976e7d4ecbae27ea651b134f37_21_cryptmedia.m3u8"
+      },
+      "movie_definition": {
+        "mb_sq": "360:360"
+      },
+      "movie_filesize": null,
+      "thumbnail_url": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/71939bc7916f4df7b77d71c24735f120_26.00057.jpg",
+      "small_thumbnail_url": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/71939bc7916f4df7b77d71c24735f120_25.00057.jpg",
+      "thumbnail_url_ssl": "https://ssl-cache.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/71939bc7916f4df7b77d71c24735f120_26.00057.jpg",
+      "small_thumbnail_url_ssl": "https://ssl-cache.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/71939bc7916f4df7b77d71c24735f120_25.00057.jpg",
+      "long_description": null,
+      "api_keywords": null,
+      "optional_id": null,
+      "copyright": null,
+      "copyright_url": null,
+      "keywords": null,
+      "custom_metadata": {
+        "playlist_name": "第1章 | 夏の肖像"
+      },
+      "exlink": [
+        null,
+        null,
+        null
+      ],
+      "insert_date": "2023/03/20 17:01:13",
+      "update_date": "2023/04/13 19:10:38",
+      "day_count": 1603,
+      "week_count": 13969,
+      "month_count": 97854,
+      "all_count": 113563,
+      "day_average": 73.7,
+      "week_average": 75.6,
+      "month_average": 72.8,
+      "all_average": 71.3
+    },
+    {
+      "title": "夏の肖像",
+      "mid": 40,
+      "obfuscated_mid": "NDA=",
+      "active_flg": 1,
+      "publication_date": null,
+      "expiration_date": null,
+      "duration": 325,
+      "movie_permalink": "https://api01-platform.stream.co.jp/apiservice/plt3/OTAxNw%3d%3d%23NDA%3d%23438%23438%230%233EC20059C000%23O29mZjtvZmY7b2Zm%23",
+      "movie_url": {
+        "mb_sq": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/jmc_pd/00001/109d6906313b4faf8ca57aca3545b353_crypt/109d6906313b4faf8ca57aca3545b353_21_cryptmedia.m3u8"
+      },
+      "movie_definition": {
+        "mb_sq": "360:360"
+      },
+      "movie_filesize": null,
+      "thumbnail_url": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/e5ec9503ba214d23a93fc6e1386424fd_26.00054.jpg",
+      "small_thumbnail_url": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/e5ec9503ba214d23a93fc6e1386424fd_25.00054.jpg",
+      "thumbnail_url_ssl": "https://ssl-cache.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/e5ec9503ba214d23a93fc6e1386424fd_26.00054.jpg",
+      "small_thumbnail_url_ssl": "https://ssl-cache.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/e5ec9503ba214d23a93fc6e1386424fd_25.00054.jpg",
+      "long_description": null,
+      "api_keywords": null,
+      "optional_id": null,
+      "copyright": null,
+      "copyright_url": null,
+      "keywords": null,
+      "custom_metadata": {
+        "playlist_name": "第1章 | 夏の肖像"
+      },
+      "exlink": [
+        null,
+        null,
+        null
+      ],
+      "insert_date": "2023/03/20 17:01:04",
+      "update_date": "2023/04/13 19:10:44",
+      "day_count": 4527,
+      "week_count": 38516,
+      "month_count": 281032,
+      "all_count": 341010,
+      "day_average": 57.6,
+      "week_average": 57.8,
+      "month_average": 56.0,
+      "all_average": 54.4
+    },
+    {
+      "title": "ブレーメン",
+      "mid": 39,
+      "obfuscated_mid": "Mzk=",
+      "active_flg": 1,
+      "publication_date": null,
+      "expiration_date": null,
+      "duration": 272,
+      "movie_permalink": "https://api01-platform.stream.co.jp/apiservice/plt3/OTAxNw%3d%3d%23Mzk%3d%23438%23438%230%233EC20059C000%23O29mZjtvZmY7b2Zm%23",
+      "movie_url": {
+        "mb_sq": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/jmc_pd/00001/108d750a401c47f6bd56227633c8f937_crypt/108d750a401c47f6bd56227633c8f937_21_cryptmedia.m3u8"
+      },
+      "movie_definition": {
+        "mb_sq": "360:360"
+      },
+      "movie_filesize": null,
+      "thumbnail_url": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/40ee74880b464a2587d4a3ad238d6cdf_26.00068.jpg",
+      "small_thumbnail_url": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/40ee74880b464a2587d4a3ad238d6cdf_25.00068.jpg",
+      "thumbnail_url_ssl": "https://ssl-cache.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/40ee74880b464a2587d4a3ad238d6cdf_26.00068.jpg",
+      "small_thumbnail_url_ssl": "https://ssl-cache.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/40ee74880b464a2587d4a3ad238d6cdf_25.00068.jpg",
+      "long_description": null,
+      "api_keywords": null,
+      "optional_id": null,
+      "copyright": null,
+      "copyright_url": null,
+      "keywords": null,
+      "custom_metadata": {
+        "playlist_name": "第1章 | 夏の肖像"
+      },
+      "exlink": [
+        null,
+        null,
+        null
+      ],
+      "insert_date": "2023/03/20 17:00:46",
+      "update_date": "2023/04/13 19:10:14",
+      "day_count": 1768,
+      "week_count": 14888,
+      "month_count": 106598,
+      "all_count": 126963,
+      "day_average": 82.2,
+      "week_average": 81.2,
+      "month_average": 77.5,
+      "all_average": 74.9
+    },
+    {
+      "title": "月に吠える",
+      "mid": 38,
+      "obfuscated_mid": "Mzg=",
+      "active_flg": 1,
+      "publication_date": null,
+      "expiration_date": null,
+      "duration": 266,
+      "movie_permalink": "https://api01-platform.stream.co.jp/apiservice/plt3/OTAxNw%3d%3d%23Mzg%3d%23438%23438%230%233EC20059C000%23O29mZjtvZmY7b2Zm%23",
+      "movie_url": {
+        "mb_sq": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/jmc_pd/00001/22fc3a6ada4a401bafaff87e293ce502_crypt/22fc3a6ada4a401bafaff87e293ce502_21_cryptmedia.m3u8"
+      },
+      "movie_definition": {
+        "mb_sq": "360:360"
+      },
+      "movie_filesize": null,
+      "thumbnail_url": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/076f1d3ae8004aac8e77820366b1f520_26.00066.jpg",
+      "small_thumbnail_url": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/076f1d3ae8004aac8e77820366b1f520_25.00066.jpg",
+      "thumbnail_url_ssl": "https://ssl-cache.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/076f1d3ae8004aac8e77820366b1f520_26.00066.jpg",
+      "small_thumbnail_url_ssl": "https://ssl-cache.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/076f1d3ae8004aac8e77820366b1f520_25.00066.jpg",
+      "long_description": null,
+      "api_keywords": null,
+      "optional_id": null,
+      "copyright": null,
+      "copyright_url": null,
+      "keywords": null,
+      "custom_metadata": {
+        "playlist_name": "第1章 | 夏の肖像"
+      },
+      "exlink": [
+        null,
+        null,
+        null
+      ],
+      "insert_date": "2023/03/20 17:00:32",
+      "update_date": "2023/04/13 19:10:53",
+      "day_count": 1560,
+      "week_count": 12790,
+      "month_count": 89641,
+      "all_count": 105055,
+      "day_average": 73.5,
+      "week_average": 75.3,
+      "month_average": 72.6,
+      "all_average": 71.1
+    },
+    {
+      "title": "451",
+      "mid": 37,
+      "obfuscated_mid": "Mzc=",
+      "active_flg": 1,
+      "publication_date": null,
+      "expiration_date": null,
+      "duration": 209,
+      "movie_permalink": "https://api01-platform.stream.co.jp/apiservice/plt3/OTAxNw%3d%3d%23Mzc%3d%23438%23438%230%233EC20059C000%23O29mZjtvZmY7b2Zm%23",
+      "movie_url": {
+        "mb_sq": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/jmc_pd/00001/d464424d04fe408eaf36826b183fa624_crypt/d464424d04fe408eaf36826b183fa624_21_cryptmedia.m3u8"
+      },
+      "movie_definition": {
+        "mb_sq": "360:360"
+      },
+      "movie_filesize": null,
+      "thumbnail_url": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/a98e2b900ff04b4e88ac3dae865408fd_26.00052.jpg",
+      "small_thumbnail_url": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/a98e2b900ff04b4e88ac3dae865408fd_25.00052.jpg",
+      "thumbnail_url_ssl": "https://ssl-cache.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/a98e2b900ff04b4e88ac3dae865408fd_26.00052.jpg",
+      "small_thumbnail_url_ssl": "https://ssl-cache.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/a98e2b900ff04b4e88ac3dae865408fd_25.00052.jpg",
+      "long_description": null,
+      "api_keywords": null,
+      "optional_id": null,
+      "copyright": null,
+      "copyright_url": null,
+      "keywords": null,
+      "custom_metadata": {
+        "playlist_name": "第1章 | 夏の肖像"
+      },
+      "exlink": [
+        null,
+        null,
+        null
+      ],
+      "insert_date": "2023/03/20 17:00:22",
+      "update_date": "2023/04/13 19:10:24",
+      "day_count": 1377,
+      "week_count": 11533,
+      "month_count": 79798,
+      "all_count": 93347,
+      "day_average": 83.3,
+      "week_average": 84.0,
+      "month_average": 82.2,
+      "all_average": 80.6
+    },
+    {
+      "title": "パドドゥ",
+      "mid": 36,
+      "obfuscated_mid": "MzY=",
+      "active_flg": 1,
+      "publication_date": null,
+      "expiration_date": null,
+      "duration": 262,
+      "movie_permalink": "https://api01-platform.stream.co.jp/apiservice/plt3/OTAxNw%3d%3d%23MzY%3d%23438%23438%230%233EC20059C000%23O29mZjtvZmY7b2Zm%23",
+      "movie_url": {
+        "mb_sq": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/jmc_pd/00001/aa97df5c6b2e43fd92a94b28b911228e_crypt/aa97df5c6b2e43fd92a94b28b911228e_21_cryptmedia.m3u8"
+      },
+      "movie_definition": {
+        "mb_sq": "360:360"
+      },
+      "movie_filesize": null,
+      "thumbnail_url": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/1c5c530a84e241a3b6fac6821cb66d12_26.00065.jpg",
+      "small_thumbnail_url": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/1c5c530a84e241a3b6fac6821cb66d12_25.00065.jpg",
+      "thumbnail_url_ssl": "https://ssl-cache.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/1c5c530a84e241a3b6fac6821cb66d12_26.00065.jpg",
+      "small_thumbnail_url_ssl": "https://ssl-cache.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/1c5c530a84e241a3b6fac6821cb66d12_25.00065.jpg",
+      "long_description": null,
+      "api_keywords": null,
+      "optional_id": null,
+      "copyright": null,
+      "copyright_url": null,
+      "keywords": null,
+      "custom_metadata": {
+        "playlist_name": "第1章 | 夏の肖像"
+      },
+      "exlink": [
+        null,
+        null,
+        null
+      ],
+      "insert_date": "2023/03/20 17:00:13",
+      "update_date": "2023/04/13 19:10:24",
+      "day_count": 2419,
+      "week_count": 20404,
+      "month_count": 146379,
+      "all_count": 172443,
+      "day_average": 88.5,
+      "week_average": 88.1,
+      "month_average": 87.2,
+      "all_average": 86.3
+    },
+    {
+      "title": "靴の花火",
+      "mid": 35,
+      "obfuscated_mid": "MzU=",
+      "active_flg": 1,
+      "publication_date": null,
+      "expiration_date": null,
+      "duration": 305,
+      "movie_permalink": "https://api01-platform.stream.co.jp/apiservice/plt3/OTAxNw%3d%3d%23MzU%3d%23438%23438%230%233EC20059C000%23O29mZjtvZmY7b2Zm%23",
+      "movie_url": {
+        "mb_sq": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/jmc_pd/00001/934e17d84ca0424e93e63d2fa7c9500a_crypt/934e17d84ca0424e93e63d2fa7c9500a_21_cryptmedia.m3u8"
+      },
+      "movie_definition": {
+        "mb_sq": "360:360"
+      },
+      "movie_filesize": null,
+      "thumbnail_url": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/44b6cfb650a44a2fb73a605f37ac6a38_26.00050.jpg",
+      "small_thumbnail_url": "http://eqj067jhta.eq.webcdn.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/44b6cfb650a44a2fb73a605f37ac6a38_25.00050.jpg",
+      "thumbnail_url_ssl": "https://ssl-cache.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/44b6cfb650a44a2fb73a605f37ac6a38_26.00050.jpg",
+      "small_thumbnail_url_ssl": "https://ssl-cache.stream.ne.jp/www50/eqj067jhta/jmc_pub/thumbnail/00001/44b6cfb650a44a2fb73a605f37ac6a38_25.00050.jpg",
+      "long_description": null,
+      "api_keywords": null,
+      "optional_id": null,
+      "copyright": null,
+      "copyright_url": null,
+      "keywords": null,
+      "custom_metadata": {
+        "playlist_name": "第1章 | 夏の肖像"
+      },
+      "exlink": [
+        null,
+        null,
+        null
+      ],
+      "insert_date": "2023/03/20 16:59:56",
+      "update_date": "2023/04/13 19:11:42",
+      "day_count": 1644,
+      "week_count": 13425,
+      "month_count": 95897,
+      "all_count": 114128,
+      "day_average": 83.0,
+      "week_average": 83.4,
+      "month_average": 82.1,
+      "all_average": 81.2
+    }
+  ]
+});
